@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ronar01
-- 👀 I’m interested in back-end
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me: www.linkedin.com/in/ronaldy01
 
 
 <!---
